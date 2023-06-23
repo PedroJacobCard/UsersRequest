@@ -1,0 +1,1 @@
+In this Project I made a Simple table using HTML, and Vite bundler for TypeScript, Then I created a request of the GitHub API with AJAX.
